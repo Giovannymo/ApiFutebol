@@ -6545,19 +6545,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\APT01-63\\.nuget\\packages\\": {}
+    "/home/juarika/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\APT01-63\\Documents\\Netcore\\ApiFutebol\\ApiFootball\\ApiFootball.csproj",
+      "projectUniqueName": "/home/juarika/Documentos/projectsNetCore/ApiFutebol/ApiFootball/ApiFootball.csproj",
       "projectName": "ApiFootball",
-      "projectPath": "C:\\Users\\APT01-63\\Documents\\Netcore\\ApiFutebol\\ApiFootball\\ApiFootball.csproj",
-      "packagesPath": "C:\\Users\\APT01-63\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\APT01-63\\Documents\\Netcore\\ApiFutebol\\ApiFootball\\obj\\",
+      "projectPath": "/home/juarika/Documentos/projectsNetCore/ApiFutebol/ApiFootball/ApiFootball.csproj",
+      "packagesPath": "/home/juarika/.nuget/packages/",
+      "outputPath": "/home/juarika/Documentos/projectsNetCore/ApiFutebol/ApiFootball/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\APT01-63\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "/home/juarika/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net7.0"
@@ -6569,8 +6569,8 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "C:\\Users\\APT01-63\\Documents\\Netcore\\ApiFutebol\\Application\\Application.csproj": {
-              "projectPath": "C:\\Users\\APT01-63\\Documents\\Netcore\\ApiFutebol\\Application\\Application.csproj"
+            "/home/juarika/Documentos/projectsNetCore/ApiFutebol/Application/Application.csproj": {
+              "projectPath": "/home/juarika/Documentos/projectsNetCore/ApiFutebol/Application/Application.csproj"
             }
           }
         }
@@ -6643,7 +6643,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/7.0.111/RuntimeIdentifierGraph.json"
       }
     }
   }
